@@ -14,6 +14,11 @@ public class Main {
 		for (int i = 0; i < 10; i++) {
 			System.out.println(i);
 		}
+		
+		// Added code from GitHub
+		for(int i = 10; i > 0; i--){
+			System.out.println(i);
+		}
 	}
 
 }
